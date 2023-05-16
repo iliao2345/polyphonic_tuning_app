@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
     max_freq = 2000
     plot_time = 5
-    max_amplitude = 1000000
+    max_amplitude = 10000000
     display_exponent = 0.3
     n_shifters = 4
     window_dims = (800, 800)
